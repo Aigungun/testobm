@@ -1,0 +1,7 @@
+D:\Users\Administrator\source\repos\test\obj\Release\net8.0\PubTmp\Out\test.exe
+D:\Users\Administrator\source\repos\test\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+D:\Users\Administrator\source\repos\test\obj\Release\net8.0\PubTmp\Out\appsettings.json
+D:\Users\Administrator\source\repos\test\obj\Release\net8.0\PubTmp\Out\test.dll
+D:\Users\Administrator\source\repos\test\obj\Release\net8.0\PubTmp\Out\test.deps.json
+D:\Users\Administrator\source\repos\test\obj\Release\net8.0\PubTmp\Out\test.runtimeconfig.json
+D:\Users\Administrator\source\repos\test\obj\Release\net8.0\PubTmp\Out\test.pdb

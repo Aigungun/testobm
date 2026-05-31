@@ -1,0 +1,7 @@
+D:\Users\Administrator\source\repos\web12\obj\Release\net8.0\PubTmp\Out\web12.exe
+D:\Users\Administrator\source\repos\web12\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+D:\Users\Administrator\source\repos\web12\obj\Release\net8.0\PubTmp\Out\appsettings.json
+D:\Users\Administrator\source\repos\web12\obj\Release\net8.0\PubTmp\Out\web12.dll
+D:\Users\Administrator\source\repos\web12\obj\Release\net8.0\PubTmp\Out\web12.deps.json
+D:\Users\Administrator\source\repos\web12\obj\Release\net8.0\PubTmp\Out\web12.runtimeconfig.json
+D:\Users\Administrator\source\repos\web12\obj\Release\net8.0\PubTmp\Out\web12.pdb
